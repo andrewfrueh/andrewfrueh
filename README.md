@@ -2,7 +2,7 @@
 
 Hi, I'm Andrew Frueh.
 
-I build the digital and physical frameworks that help educational tech, design research, and robotics play nice together. Currently engineering the future of new-media, healthcare, engineering, and play -- one open-source component at a time.
+I specialize in taking complex research problems and translating them into modular code and CAD. Currently engineering the future of new-media, healthcare, engineering, and play -- one open-source component at a time.
 
 <!---
 andrewfrueh/andrewfrueh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
